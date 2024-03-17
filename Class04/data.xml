@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet type="text/xsl" href="table.xsl" ?>
+
+<personData>
+
+<user id="1">
+<name>Ahsan</name>
+<email>ahsan@gmail.com</email>
+<age>25</age>
+<salary>40000</salary>
+</user>
+
+<user id="2">
+<name>Basit</name>
+<email>basit@gmail.com</email>
+<age>30</age>
+<salary>45000</salary>
+</user>
+
+<user id="3">
+<name>Noman</name>
+<email>noman@gmail.com</email>
+<age>27</age>
+<salary>35000</salary>
+</user>
+
+<user id="4">
+<name>Kashif</name>
+<email>kashif@gmail.com</email>
+<age>36</age>
+<salary>43000</salary>
+</user>
+
+</personData>
+
